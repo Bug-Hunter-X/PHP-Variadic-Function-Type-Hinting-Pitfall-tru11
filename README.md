@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug related to variadic function type hinting in PHP.  The bug arises from the unexpected behavior when combining variadic parameters with type hinting and default values. The solution offers a more robust way to handle these scenarios, ensuring type safety and predictable function behavior. 
