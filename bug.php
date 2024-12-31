@@ -1,0 +1,1 @@
+function foo(int ...$ints): int {return array_sum($ints);}
