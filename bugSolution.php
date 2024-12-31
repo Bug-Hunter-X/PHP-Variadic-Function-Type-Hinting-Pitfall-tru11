@@ -1,0 +1,1 @@
+function foo(int ...$ints): int {  if (empty($ints)) {    return 0; // Handle the case with no arguments  }  return array_sum($ints);}
